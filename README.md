@@ -114,6 +114,10 @@ You get the focused-expert effect (CFO answers financial questions like a CFO, n
 - **Email:** hello@studiomeyer.io
 - **Security:** see [SECURITY.md](SECURITY.md)
 
+## About StudioMeyer
+
+[StudioMeyer](https://studiomeyer.io) is an AI and design studio from Palma de Mallorca, building custom websites and AI infrastructure for small and medium businesses. Production stack on Claude Agent SDK, MCP, n8n and an in-house observability and guard layer.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
