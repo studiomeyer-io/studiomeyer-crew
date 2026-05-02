@@ -4,6 +4,8 @@
 
 # StudioMeyer Crew
 
+[![smithery badge](https://smithery.ai/badge/cod-gb2l/StudioMeyer-Crew)](https://smithery.ai/servers/cod-gb2l/StudioMeyer-Crew)
+
 > Agent Personas for Claude — 10 MCP tools, 8 personas, 3 workflows. Zero API cost. Free tier available.
 
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io/servers/io.studiomeyer/crew)
