@@ -13,6 +13,16 @@
 [![Glama](https://glama.ai/mcp/servers/studiomeyer-io/studiomeyer-crew/badges/score.svg)](https://glama.ai/mcp/servers/studiomeyer-io/studiomeyer-crew)
 [![Free](https://img.shields.io/badge/Price-Free-brightgreen)](https://studiomeyer.io/en/services/crew/)
 
+## A note from us
+
+We have been building tools and systems for ourselves for the past two years. The fact that this repo is small and has few stars is not because it is new. It is because we only just decided to share what we have built. It is not a fresh experiment, it is a long story with a recent commit.
+
+We love building things and sharing them. We do not love social media tactics, growth hacks, or chasing stars and followers. So this repo is small. The code is real, it gets used, issues get answered. Judge for yourself.
+
+If it helps you, sharing, testing, and feedback help us. If it could be better, an issue is more useful. If you build something with it, tell us at hello@studiomeyer.io. That genuinely makes our day.
+
+From a small studio in Palma de Mallorca.
+
 ## What is this?
 
 StudioMeyer Crew turns Claude into specialized expert roles — CEO, CFO, CMO, CTO, PM, Analyst, Support, Creative Director — with domain-specific frameworks, decision models, and chained workflows. **Zero extra API cost** because it runs within your Claude subscription.
