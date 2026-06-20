@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.studiomeyer/crew",
   "title": "StudioMeyer Crew",
-  "description": "Agent Personas for Claude. 10 MCP tools, 8 built-in personas (CEO, CFO, CMO, CTO, PM, Analyst, Support, Creative), 3 chained workflows. Zero extra API cost — runs within your Claude subscription. Magic Link email verification, no passwords. Free tier available. EU hosted (Frankfurt).",
-  "version": "2.1.1",
+  "description": "Agent Personas for Claude. 12 MCP tools, 13 built-in personas (CEO, CFO, CMO, CTO, PM, Analyst, Support, Creative + 5 Pro: Legal Advisor, Sales Engineer, Data Scientist, UX Researcher, Developer Relations), 3 chained workflows, blind-vote councils/debates, and standing multi-voice teams. Personas + workflows browsable as MCP resources. Zero extra API cost — runs within your Claude subscription. Magic Link email verification, no passwords. Free tier available. EU hosted (Frankfurt).",
+  "version": "2.5.0",
   "remotes": [{ "type": "streamable-http", "url": "https://crew.studiomeyer.io/mcp" }]
 }
