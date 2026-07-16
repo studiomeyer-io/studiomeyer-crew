@@ -6,7 +6,7 @@
 
 [![smithery badge](https://smithery.ai/badge/cod-gb2l/StudioMeyer-Crew)](https://smithery.ai/servers/cod-gb2l/StudioMeyer-Crew)
 
-> Agent Personas for Claude — 12 MCP tools, 13 personas, 3 workflows + councils, debates & standing teams. Browsable as MCP resources. Zero API cost. Free tier available.
+> Agent Personas for Claude — 16 MCP tools, 13 personas, 3 workflows + councils, debates & standing teams. Browsable as MCP resources. Zero API cost. Free tier available.
 
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io/servers/io.studiomeyer/crew)
 [![MCPize](https://img.shields.io/badge/MCPize-Marketplace-purple)](https://mcpize.com/mcp/studiomeyer-crew)
@@ -27,7 +27,7 @@ From a small studio in Palma de Mallorca.
 
 StudioMeyer Crew turns Claude into specialized expert roles — CEO, CFO, CMO, CTO, PM, Analyst, Support, Creative Director — with domain-specific frameworks, decision models, and chained workflows. **Zero extra API cost** because it runs within your Claude subscription.
 
-**12 MCP tools** for persona activation, status, feedback, custom personas, multi-persona workflows, blind-vote councils/debates, and standing teams. Personas and workflows are also exposed as browsable MCP **resources**.
+**16 MCP tools** for persona activation, status, feedback, custom personas, multi-persona workflows, blind-vote councils/debates, and standing teams. Personas and workflows are also exposed as browsable MCP **resources**.
 
 ## Connect in 10 Seconds
 
@@ -52,7 +52,7 @@ npx mcp-remote https://crew.studiomeyer.io/mcp
 npx mcp-remote https://studiomeyer-crew.mcpize.run
 ```
 
-You will receive a sign-in link via email to verify your identity — no passwords needed. All 12 tools are immediately available.
+You will receive a sign-in link via email to verify your identity — no passwords needed. All 16 tools are immediately available.
 
 ## 13 Built-in Personas (8 free + 5 Pro-tier)
 
@@ -118,7 +118,7 @@ Personas and workflows are browsable as MCP **resources** — preview them witho
 
 ## Pricing
 
-- **Free** — All 12 tools, all 13 personas, all 3 workflows + councils & teams. No credit card.
+- **Free** — All 16 tools, all 13 personas, all 3 workflows + councils & teams. No credit card.
 - **Pro / Team / Scale** — coming soon (custom personas at scale, team SSO, audit logs)
 
 See [studiomeyer.io/en/services/crew](https://studiomeyer.io/en/services/crew/) for plan details.
