@@ -1,0 +1,8 @@
+Scope of the MIT license in this repository
+===========================================
+
+The LICENSE file applies to the connector documentation in this repository
+(README, examples, schema files). The Crew server source code is proprietary
+and not included in this repository.
+
+The same statement is in the README under "License".
